@@ -1,0 +1,49 @@
+{
+    "슬라이드": [
+        {
+            "id":"main-slide-1",
+            "클래스이름":"slide last", 
+            "이미지":"./images/home-page-fashion-slider-03.jpg",
+            "타이틀1":"2019 NEW COLLECTION",
+            "타이틀2":"Designer swimwear",
+            "타이틀3":"Fashion should be a form of escapism, and not a form of imprisonment",
+            "타이틀4":"SHOP COLLECTION"
+        },
+        {
+            "id":"main-slide-2",
+            "클래스이름":"slide slide1", 
+            "이미지":"./images/home-page-fashion-slider-01.jpg",
+            "타이틀1":"2019 NEW COLLECTION",
+            "타이틀2":"Summer swimwear",
+            "타이틀3":"Fashion should be a form of escapism, and not a form of imprisonment",
+            "타이틀4":"SHOP COLLECTION"
+        },
+        {
+            "id":"main-slide-3",
+            "클래스이름":"slide slide2", 
+            "이미지":"./images/home-page-fashion-slider-02.jpg",
+            "타이틀1":"2019 NEW COLLECTION",
+            "타이틀2":"Winter swimwear",
+            "타이틀3":"Fashion should be a form of escapism, and not a form of imprisonment",
+            "타이틀4":"SHOP COLLECTION"
+        },
+        {
+            "id":"main-slide-4",
+            "클래스이름":"slide slide3", 
+            "이미지":"./images/home-page-fashion-slider-03.jpg",
+            "타이틀1":"2019 NEW COLLECTION",
+            "타이틀2":"Designer swimwear",
+            "타이틀3":"Fashion should be a form of escapism, and not a form of imprisonment",
+            "타이틀4":"SHOP COLLECTION"
+        },
+        {
+            "id":"main-slide-5",
+            "클래스이름":"slide first", 
+            "이미지":"./images/home-page-fashion-slider-01.jpg",
+            "타이틀1":"2019 NEW COLLECTION",
+            "타이틀2":"Summer swimwear",
+            "타이틀3":"Fashion should be a form of escapism, and not a form of imprisonment",
+            "타이틀4":"SHOP COLLECTION"
+        }
+    ]
+}

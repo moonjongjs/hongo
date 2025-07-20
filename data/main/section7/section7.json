@@ -1,0 +1,8 @@
+{
+    "섹션7": [
+        {"id":"section7-column-01", "아이콘":"icon-global","캡션":"FREE STANDARD SHIPPING"},
+        {"id":"section7-column-02", "아이콘":"icon-wallet","캡션":"100% MONEY BACK"},
+        {"id":"section7-column-03", "아이콘":"icon-gift","캡션":"GIFTS FOR MEMBERS"},
+        {"id":"section7-column-04", "아이콘":"icon-shield","캡션":"BUYER PROTECTION"}
+    ]
+}

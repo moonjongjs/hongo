@@ -1,0 +1,12 @@
+{
+    "블로그": {
+        "타이틀1":"Latest Blogs",
+        "타이틀2":"Way is there to get clothing you’re sure, to love than by making it your know",
+        "컨텐트": [
+            {"id":"blogs-column-01", "이미지":"./images/blog-listing-img106-578x771.jpg","캡션1":"Adventure","캡션2":"I see that the fashion wears, out more apparel","캡션3":"01 March 2019","캡션4":"By, Alexis Richards"},
+            {"id":"blogs-column-02", "이미지":"./images/blog-listing-img107-578x771.jpg","캡션1":"Adventure","캡션2":"Gucci has design and, contemporary lifestyle","캡션3":"01 March 2019","캡션4":"By, Alexis Richards"},
+            {"id":"blogs-column-03", "이미지":"./images/blog-listing-img108-578x771.jpg","캡션1":"Adventure","캡션2":"A fashion is nothing but an, induced epidemic","캡션3":"01 March 2019","캡션4":"By, Alexis Richards"},
+            {"id":"blogs-column-04", "이미지":"./images/blog-listing-img96-578x771.jpg","캡션1":"Adventure","캡션2":"A designer is only as good as, the star who wears","캡션3":"01 March 2019","캡션4":"By, Alexis Richards"}
+        ] 
+    }
+}

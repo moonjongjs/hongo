@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hongo/static/css/main.5b1ac2e6.css",
+    "main.js": "/hongo/static/js/main.298c546d.js",
+    "static/media/home-page-fashion-deal-day-bg.jpg": "/hongo/static/media/home-page-fashion-deal-day-bg.4774f07eae9feeb3041d.jpg",
+    "static/media/infa-05.jpg": "/hongo/static/media/infa-05.998d8b660edad582610f.jpg",
+    "index.html": "/hongo/index.html",
+    "main.5b1ac2e6.css.map": "/hongo/static/css/main.5b1ac2e6.css.map",
+    "main.298c546d.js.map": "/hongo/static/js/main.298c546d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b1ac2e6.css",
+    "static/js/main.298c546d.js"
+  ]
+}

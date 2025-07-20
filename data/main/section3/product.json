@@ -1,0 +1,116 @@
+{
+    "타이틀1":"Great Selection",
+    "타이틀2":"Follow the most popular trends and get, exclusive items from hongo shop",
+    "상품":[
+        {
+            "상품코드":"product-01",
+            "이미지1":"./images/fashion-recent-products-02-1-1-360x459.jpg",
+            "이미지2":"./images/fashion-recent-products-02-a-1-1-1-360x459.jpg",
+            "카트 아이콘1":"bi bi-cart4",
+            "카트 타이틀1":"ADD TO CART",
+            "카트 아이콘2":"bi bi-eye-fill",
+            "카트 타이틀2":"QUICK VIEW",
+            "캡션 타이틀1":"Textured Sweater",
+            "캡션 가격":"$50.00"
+        },
+        {
+            "상품코드":"product-02",
+            "이미지1":"./images/fashion-recent-products-01-b-360x459.jpg",
+            "이미지2":"./images/fashion-recent-products-03-a-1-1-360x459.jpg",
+            "카트 아이콘1":"bi bi-stack",
+            "카트 타이틀1":"SELECT OPTIONS",
+            "카트 아이콘2":"bi bi-eye-fill",
+            "카트 타이틀2":"QUICK VIEW",
+            "캡션 타이틀1":"Textured Sweater",
+            "캡션 가격":"$20.00 - $40.00"
+        },
+        {
+            "상품코드":"product-03",
+            "이미지1":"./images/fashion-recent-products-04-360x459.jpg",
+            "이미지2":"./images/fashion-recent-products-04-a-1-360x459.jpg",
+            "카트 아이콘1":"bi bi-stack",
+            "카트 타이틀1":"SELECT OPTIONS",
+            "카트 아이콘2":"bi bi-eye-fill",
+            "카트 타이틀2":"QUICK VIEW",
+            "캡션 타이틀1":"Textured Sweater",
+            "캡션 가격":"$300.00"
+        },
+        {
+            "상품코드":"product-04",
+            "이미지1":"./images/fashion-recent-products-05-1-360x459.jpg",
+            "이미지2":"./images/fashion-recent-products-05-a-1-360x459.jpg",
+            "카트 아이콘1":"bi bi-stack",
+            "카트 타이틀1":"SELECT OPTIONS",
+            "카트 아이콘2":"bi bi-eye-fill",
+            "카트 타이틀2":"QUICK VIEW",
+            "캡션 타이틀1":"Textured Sweater",
+            "캡션 가격":"$40.00 - $35.00"
+        },
+        {
+            "상품코드":"product-05",
+            "이미지1":"./images/fashion-recent-products-06-1-360x459.jpg",
+            "이미지2":"./images/fashion-recent-products-06-a-1-360x459.jpg",
+            "카트 아이콘1":"bi bi-stack",
+            "카트 타이틀1":"SELECT OPTIONS",
+            "카트 아이콘2":"bi bi-eye-fill",
+            "카트 타이틀2":"QUICK VIEW",
+            "캡션 타이틀1":"Textured Sweater",
+            "캡션 가격":"$40.00 - $20.00"
+        },
+        {
+            "상품코드":"product-06",
+            "이미지1":"./images/fashion-recent-products-07-1-360x459.jpg",
+            "이미지2":"./images/fashion-recent-products-07-a-1-360x459.jpg",
+            "카트 아이콘1":"bi bi-cart4",
+            "카트 타이틀1":"ADD TO CART",
+            "카트 아이콘2":"bi bi-eye-fill",
+            "카트 타이틀2":"QUICK VIEW",
+            "캡션 타이틀1":"Textured Sweater",
+            "캡션 가격":"$50.00"
+        },
+        {
+            "상품코드":"product-07",
+            "이미지1":"./images/fashion-recent-products-08-1-360x459.jpg",
+            "이미지2":"./images/fashion-recent-products-08-a-360x459.jpg",
+            "카트 아이콘1":"bi bi-stack",
+            "카트 타이틀1":"SELECT OPTIONS",
+            "카트 아이콘2":"bi bi-eye-fill",
+            "카트 타이틀2":"QUICK VIEW",
+            "캡션 타이틀1":"Textured Sweater",
+            "캡션 가격":"$50.00"
+        },
+        {
+            "상품코드":"product-08",
+            "이미지1":"./images/fashion-recent-products-01-d-360x459.jpg",
+            "이미지2":"./images/fashion-recent-products-09-a-1-1-360x459.jpg",
+            "카트 아이콘1":"bi bi-cart4",
+            "카트 타이틀1":"ADD TO CART",
+            "카트 아이콘2":"bi bi-eye-fill",
+            "카트 타이틀2":"QUICK VIEW",
+            "캡션 타이틀1":"Textured Sweater",
+            "캡션 가격":"$40.00 - $20.00"
+        },
+        {
+            "상품코드":"product-09",
+            "이미지1":"./images/fashion-recent-products-10-1-360x459.jpg",
+            "이미지2":"./images/fashion-recent-products-10-a-1-360x459.jpg",
+            "카트 아이콘1":"bi bi-cart4",
+            "카트 타이틀1":"ADD TO CART",
+            "카트 아이콘2":"bi bi-eye-fill",
+            "카트 타이틀2":"QUICK VIEW",
+            "캡션 타이틀1":"Textured Sweater",
+            "캡션 가격":"$40.00 - $20.00"
+        },
+        {
+            "상품코드":"product-10",
+            "이미지1":"./images/fashion-recent-products-01-1-1-360x459.jpg",
+            "이미지2":"./images/fashion-recent-products-01-a-1-1-360x459.jpg",
+            "카트 아이콘1":"bi bi-cart4",
+            "카트 타이틀1":"ADD TO CART",
+            "카트 아이콘2":"bi bi-eye-fill",
+            "카트 타이틀2":"QUICK VIEW",
+            "캡션 타이틀1":"Textured Sweater",
+            "캡션 가격":"$50.00"
+        }
+    ]
+}

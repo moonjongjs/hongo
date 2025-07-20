@@ -1,0 +1,12 @@
+{
+    "슬라이드": [
+        {"id":"section8-slide-01","이미지":"./images/section8_slide0.jpg"},
+        {"id":"section8-slide-02","이미지":"./images/section8_slide1.jpg"},
+        {"id":"section8-slide-03","이미지":"./images/section8_slide2.jpg"},
+        {"id":"section8-slide-04","이미지":"./images/section8_slide3.jpg"},
+        {"id":"section8-slide-05","이미지":"./images/section8_slide4.jpg"},
+        {"id":"section8-slide-06","이미지":"./images/section8_slide5.jpg"},
+        {"id":"section8-slide-07","이미지":"./images/section8_slide6.jpg"},
+        {"id":"section8-slide-08","이미지":"./images/section8_slide7.jpg"}
+    ]
+}

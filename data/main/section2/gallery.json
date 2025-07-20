@@ -1,0 +1,8 @@
+{
+    "갤러리": [
+        {"id":"gallery-01", "이미지":"./images/graphic-banner-1.jpg", "타이틀1":"Accessories Collection","타이틀2":"SHOP NOW"},
+        {"id":"gallery-02", "이미지":"./images/graphic-banner-4.jpg", "타이틀1":"Women Collection","타이틀2":"SHOP NOW"},
+        {"id":"gallery-03", "이미지":"./images/graphic-banner-2-450x450.jpg", "타이틀1":"Men Collection","타이틀2":"SHOP NOW"},
+        {"id":"gallery-04", "이미지":"./images/graphic-banner-3-450x450.jpg", "타이틀1":"","타이틀2":"babo"}
+    ]
+}
